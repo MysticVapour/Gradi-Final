@@ -2,6 +2,8 @@
 
 Automate the grading process, accelerate academic assessments, and elevate educational outcomes with the power of Gradi.ai !
 
+Presentation Link: https://www.canva.com/design/DAFm1ReWkb0/wExqDD7LjFC6F7G23bQxsQ/edit?utm_content=DAFm1ReWkb0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ## Problem Statement
 
 -	Objective type paper correction is automatable but has not been extended to subjective type papers yet
