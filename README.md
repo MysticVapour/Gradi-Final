@@ -4,6 +4,10 @@ Automate the grading process, accelerate academic assessments, and elevate educa
 
 Presentation Link: https://www.canva.com/design/DAFm1ReWkb0/wExqDD7LjFC6F7G23bQxsQ/edit?utm_content=DAFm1ReWkb0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
+# Attention: How to Test Model
+
+You can test Gradi using Answer1.png, Answer2.png (Put either of these in the Student Portal) and train using neural_db/FrenchRev.pdf (For demo, the code is already trained with FrenchRev)
+
 ## Problem Statement
 
 -	Objective type paper correction is automatable but has not been extended to subjective type papers yet
